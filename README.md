@@ -1,4 +1,4 @@
-## Olá!! Eu sou o Guilherme Biazioli Ferreira
+## Olá meu nome é Guilherme Biazioli Ferreira e sou programador web.
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
@@ -14,7 +14,6 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-after" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
    <img align="center" alt="Rafa-photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-  <img align="center" alt="Rafa-canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />  
 </div>
   
   ##
